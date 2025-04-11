@@ -1,0 +1,18 @@
+Veri kümesi sütunları:
+1.	tokens: Kelime ve noktalama işareti olarak ayrılmış ibareleri içerir.
+2.	ner_tags: “tokens” listesindeki sıralamaya karşılık gelecek şekilde aşağıdaki NER Etiketlerine uygun verilen sayılardan oluşan liste. NER Etiketlemeleri:
+0: Aşağıdakilerden hiçbiri değil
+1: İnsan isminin ilk kelimesi
+2: İnsan isminin devamı
+3: Kuruluş/organizasyon isminin ilk kelimesi
+4: Kuruluş/organizasyon isminin devamı
+5: Mekan isminin ilk kelimesi
+6: Mekan isminin devamı
+3.	langs:  “tokens” listesindeki sıralamaya karşılık gelecek şekilde listedeki kelimelerin dili. Yalnızca Türkçe veri kümesi ele alındığı için bu listelerdeki tüm elemanlar ‘tr’den ibaret.
+4.	spans: “ner_tags”de verilen sayılara göre “tokens” listesinde verilen varlığın tam adı ve türü.
+
+Değerlendirme sütunları:
+Anlaşılabilirlik, Akıcılık ve Anlatım Bozukluğu: Aşağıdaki üç sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Metin doğal ve akıcı bir şekilde okunabiliyor mu? 
+b.	Ana dili Türkçe olan biri bu cümleleri kurar mıydı? 
+c.	Metin anlatım bozukluğu içermeyen cümlelerden mi oluşuyor?

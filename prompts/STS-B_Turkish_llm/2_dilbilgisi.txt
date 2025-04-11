@@ -1,0 +1,9 @@
+Veri kümesi sütunları:
+1.	sentence1: Verilen ilk cümle
+2.	sentence2: Verilen ikinci cümle
+3.	score: Verilen iki cümlenin yakınlığına 5.0 ile 0.0 arası verilen bir skor. Tam sayı olmak zorunda değil.  
+
+Değerlendirme sütunları:
+Dil bilgisi:  Aşağıdaki iki sorunun cevabı da “hayır” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Yazım hatası var mı?
+b.	Noktalama hatası var mı?

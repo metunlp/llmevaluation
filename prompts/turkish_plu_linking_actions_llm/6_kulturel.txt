@@ -1,0 +1,6 @@
+Veri kümesi sütunları:
+1.	step: Yapılan adım
+2.	goal: “step”te bulunan adımın gözetilerek yapıldığı amaç.
+
+Değerlendirme sütunları:
+Türkiye’deki Ortak Kültürel Sağduyu Bilgisine Uygunluk: Belirtilen veri, Türkiye’nin sosyal, ekonomik, kültürel, coğrafi kuralları ile ilgili mi? Kriterler kısmındaki koşulları içeriyorsa belirlenen kurallar çerçevesinde mi içeriyor? Cevabınız her ikisine de evet ise 1, hayır ise 0 verin.

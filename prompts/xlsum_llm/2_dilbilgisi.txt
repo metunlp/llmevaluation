@@ -1,0 +1,11 @@
+Veri kümesi sütunları:
+1.	id: Soruya özel numara
+2.	text: Soru için gerekli olan haberi içeren paragraf(lar)
+3.	summary: “text” sütununda verilen paragrafın özeti
+4.	title: “text” sütununda yazan haberin başlığı
+5.	url: “text” sütununda verilen haberin linki
+
+Değerlendirme sütunları:
+Dil bilgisi: Aşağıdaki iki sorunun cevabı da “hayır” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Yazım hatası var mı?
+b.	Noktalama hatası var mı?

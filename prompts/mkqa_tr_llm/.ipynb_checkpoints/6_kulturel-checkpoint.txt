@@ -1,0 +1,20 @@
+Veri kümesi sütunları:
+1.	example_id: Soruya özel numara
+2.	query: Cevaplanması beklenen soru
+3.	answers: Cevaplar. Bazı sorular için hiç cevap yokken bazıları için birden fazla cevap var.
+    a.	type: Cevabın tipi. 
+        1.	number: sayı
+        2.	number_with_unit: birimiyle birlikte verilen sayı
+        3.	date: tarih
+        4.	entity: Varlık içeren cevaplar. Örn.: İnsanlar, nesneler, mekanlar.
+        5.	binary: evet/hayır
+        6.	short_phrase: Yukarıda bahsedilen hiçbir kategoriye girmeyen ancak yine de birkaç kelimeden oluşan cevaplar
+        7.	long_answer: Cevabı birkaç kelimeden uzun olan sorular. Değerlendirme kolaylığı sağlamak için bu soruların hepsinde cevap “None” olarak verilmiş.
+        8.	unanswerable: Cevap yok (Soru sıkıntılı ya da net bir cevap bulunamıyor)
+    b.	text: Cevap
+    c.	entity: Bu alan cevabın tipi “entity” ise bulunuyor. Cevap olan varlığın kodu.
+    ç.	aliases: Cevabın (varsa) diğer isimleri. Örn.: 5.0 ve 5, Denali Dağı ve McKinley Dağı, 01-01-2024 ve 2024-01-01.
+
+
+Değerlendirme sütunları:
+Türkiye’deki Ortak Kültürel Sağduyu Bilgisine Uygunluk: Belirtilen veri, Türkiye’nin sosyal, ekonomik, kültürel, coğrafi kuralları ile ilgili mi? Kriterler kısmındaki koşulları içeriyorsa belirlenen kurallar çerçevesinde mi içeriyor? Cevabınız her ikisine de evet ise 1, hayır ise 0 verin.

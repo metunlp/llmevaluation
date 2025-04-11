@@ -1,0 +1,12 @@
+Veri kümesi sütunları:
+1.	article_url: Makalenin linki
+2.	article_title: Makalenin başlığı
+3.	paragraph_title: Paragrafın başlığı
+4.	document: Makale metni
+5.	summary: Verilen makale metninin özeti.
+
+Değerlendirme sütunları:
+Doğruluk: Aşağıdaki üç soruya da cevabınız “evet” ise 1, değilse 0 verin.
+a.	“summary” sütununda verilen özet makale içeriğinin ne hakkında olduğunu doğru aktarıyor mu? 
+b.	Özet, makale ile çelişmeyen bilgiler mi içeriyor? 
+c.	Özet, sadece makaleden çıkarılabilecek bilgileri mi içeriyor? 

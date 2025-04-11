@@ -1,0 +1,11 @@
+Veri kümesi sütunları:
+1.	Goal: Hedef
+2.	Step1: Yapılan adım
+3.	NextStepCandidate0: Step1’i takip edebilecek adım seçeneklerinin ilki
+4.	NextStepCandidate1: Step1’i takip edebilecek adım seçeneklerinin ikincisi
+5.	NextStepCandidate2: Step1’i takip edebilecek adım seçeneklerinin üçüncüsü
+6.	NextStepCandidate3: Step1’i takip edebilecek adım seçeneklerinin dördüncüsü
+7.	Label: Verilen hedef için Step1’i takip edecek doğru adım numarası
+
+Değerlendirme sütunları:
+Türkiye’deki Ortak Kültürel Sağduyu Bilgisine Uygunluk: Belirtilen veri, Türkiye’nin sosyal, ekonomik, kültürel, coğrafi kuralları ile ilgili mi? Kriterler kısmındaki koşulları içeriyorsa belirlenen kurallar çerçevesinde mi içeriyor? Cevabınız her ikisine de evet ise 1, hayır ise 0 verin.

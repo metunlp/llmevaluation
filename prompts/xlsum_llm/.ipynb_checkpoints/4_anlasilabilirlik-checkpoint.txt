@@ -1,0 +1,14 @@
+Veri kümesi sütunları:
+1.	id: Soruya özel numara
+2.	text: Soru için gerekli olan haberi içeren paragraf(lar)
+3.	summary: “text” sütununda verilen paragrafın özeti
+4.	title: “text” sütununda yazan haberin başlığı
+5.	url: “text” sütununda verilen haberin linki
+
+Değerlendirme sütunları:
+Anlaşılabilirlik, Akıcılık ve Anlatım Bozukluğu: Aşağıdaki beş sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Metin doğal ve akıcı bir şekilde okunabiliyor mu? 
+b.	Ana dili Türkçe olan biri bu cümleleri kurar mıydı? 
+c.	Metin anlatım bozukluğu içermeyen cümlelerden mi oluşuyor?
+ç.	Haber metnini okuduğunuzda ne anlatıldığını anlayabiliyor musunuz?
+d.	Haber metni “Videoyu izlemek için tıklayın.” gibi internet sitesine ait ibarelerden arındırılmış mı? (“Haberin sonu” ibaresinin metinlerin yaklaşık %50’sinde bulunması sebebiyle bu soruyu cevaplarken bu ibareyi görmezden geliniz)

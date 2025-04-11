@@ -1,0 +1,10 @@
+Veri kümesi sütunları:
+1.	id: Soruya özel numara
+2.	context: Soru için gerekli olan bilgiyi içeren paragraf(lar)
+3.	question: “Context” sütununda verilen paragrafla ilgili sorulan soru
+4.	answer_text: “question” sütununda yazan sorunun cevabı (bu cevap paragrafın içinde doğrudan yer alıyor olmalı)
+5.	answer_start: “question” sütununda yazan sorunun cevabının “context” sütunundaki paragrafın kaçıncı karakterden itibaren başladığını gösteren sayı
+6.	title: Paragrafın bulunduğu Wikipedia sayfasının başlığı
+
+Değerlendirme sütunları:
+Türkiye’deki Ortak Kültürel Sağduyu Bilgisine Uygunluk: Belirtilen veri, Türkiye’nin sosyal, ekonomik, kültürel, coğrafi kuralları ile ilgili mi? Kriterler kısmındaki koşulları içeriyorsa belirlenen kurallar çerçevesinde mi içeriyor? Cevabınız her ikisine de evet ise 1, hayır ise 0 verin.

@@ -1,0 +1,10 @@
+Veri kümesi sütunları:
+1.	id: Soruya özel numara
+2.	context: Soru için gerekli olan bilgiyi içeren paragraf(lar)
+3.	question: “Context” sütununda verilen paragrafla ilgili sorulan soru
+4.	answer_text: “question” sütununda yazan sorunun cevabı (bu cevap paragrafın içinde doğrudan yer alıyor olmalı)
+5.	answer_start: “question” sütununda yazan sorunun cevabının “context” sütunundaki paragrafın kaçıncı karakterden itibaren başladığını gösteren sayı
+6.	title: Paragrafın bulunduğu Wikipedia sayfasının başlığı
+
+Değerlendirme sütunları:
+Terim kullanımı: Paragraf ve soruda teknik ve özel terimlerin çevirisi doğru yapılmış mı? Bu soruya cevabınız evet ise 1, hayır ise 0 verin. 

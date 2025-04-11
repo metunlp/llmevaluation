@@ -1,0 +1,13 @@
+Veri kümesi sütunları:
+1.	id: Soruya özel numara
+2.	context: Soru için gerekli olan bilgiyi içeren paragraf(lar)
+3.	question: “Context” sütununda verilen paragrafla ilgili sorulan soru
+4.	answer_text: “question” sütununda yazan sorunun cevabı (bu cevap paragrafın içinde doğrudan yer alıyor olmalı)
+5.	answer_start: “question” sütununda yazan sorunun cevabının “context” sütunundaki paragrafın kaçıncı karakterden itibaren başladığını gösteren sayı
+6.	title: Paragrafın bulunduğu Wikipedia sayfasının başlığı
+
+Değerlendirme sütunları:
+Bağdaşıklık ve Tutarlılık: Aşağıdaki üç sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Metni oluşturan sözcük ve cümleler arasındaki dil bilgisi kuralları uyumlu mu?
+b.	Cümle ve paragrafların anlam bütünlüğü mantık düzenine göre yapılandırılmış mı?
+c.	Terimler ve dil yapıları çeviri boyunca tutarlı bir şekilde kullanılıyor mu?

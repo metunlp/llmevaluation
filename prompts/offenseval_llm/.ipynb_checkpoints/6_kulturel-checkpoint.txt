@@ -1,0 +1,7 @@
+Veri kümesi sütunları:
+1.	id: Soruya özel numara
+2.	tweet: Twitter’dan alınan metin
+3.	subtask_a: Ofansiflik etiketi. Bu hücre değeri eğer tweet metni ofansif/uygun olmayan/saldırgan dil içeriyorsa 1, içermiyorsa 0 olarak işaretlenmiştir.
+
+Değerlendirme sütunları:
+Türkiye’deki Ortak Kültürel Sağduyu Bilgisine Uygunluk: Belirtilen veri, Türkiye’nin sosyal, ekonomik, kültürel, coğrafi kuralları ile ilgili mi? Kriterler kısmındaki koşulları içeriyorsa belirlenen kurallar çerçevesinde mi içeriyor? Cevabınız her ikisine de evet ise 1, hayır ise 0 verin.

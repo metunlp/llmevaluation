@@ -1,0 +1,23 @@
+Veri kümesi sütunları:
+1.	tokens: Kelime ve noktalama işareti olarak ayrılmış ibareleri içerir.
+2.	pos_tags: “tokens” listesindeki sıralamaya karşılık gelecek şekilde sayılarla sınıflandırılmış POS etiketleri.
+				0: sıfat
+1: önleç
+2: zarf
+3: yardımcı fiil
+4: eşgüdümlü bağlaç
+5: belirteç
+6: ünlem
+7: ad/isim
+8: sayı
+9: edat/ilgeç
+10: zamir
+11: özel isim
+12: noktalama
+13: yantümce bağlacı
+14: sembol
+15: fiil
+16: diğerleri
+
+Değerlendirme sütunları:
+Terim kullanımı: Cümlede teknik ve özel terimlerin çevirisi doğru yapılmış mı? Bu soruya cevabınız evet ise 1, hayır ise 0 verin.

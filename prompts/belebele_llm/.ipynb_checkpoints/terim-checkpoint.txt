@@ -1,0 +1,4 @@
+Terim Kullanımı: Teknik ve özel terimler doğru ve yerinde kullanılıyor mu? 
+Örnekler: 
+MMLU-pro-TR veri kümesinde Jovian Planets ibaresi Jüpiter Gezegenleri olarak çevrilmiş fakat Jüpiter Gezegenleri diye bir gezegen sınıfı yok. Jovian Planets Dev gezegenler demek. 
+Prime facie duty ibaresi birincil görev diye çevrilmiş fakat felsefede prime facie ilk bakışta ödevler olarak çevrilir.

@@ -1,0 +1,10 @@
+Veri kümesi sütunları:
+1.	sentence1: Verilen ilk cümle
+2.	sentence2: Verilen ikinci cümle
+3.	score: Verilen iki cümlenin yakınlığına 5.0 ile 0.0 arası verilen bir skor. Tam sayı olmak zorunda değil.  
+
+Değerlendirme sütunları:
+Anlaşılabilirlik, Akıcılık ve Anlatım Bozukluğu: Aşağıdaki üç sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Metin doğal ve akıcı bir şekilde okunabiliyor mu? 
+b.	Ana dili Türkçe olan biri bu cümleleri kurar mıydı? 
+c.	Metin anlatım bozukluğu içermeyen cümlelerden mi oluşuyor?

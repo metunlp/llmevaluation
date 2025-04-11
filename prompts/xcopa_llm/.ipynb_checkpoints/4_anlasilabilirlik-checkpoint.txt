@@ -1,0 +1,14 @@
+Veri kümesi sütunları:
+1.	idx: Soruya özel numara
+2.	premise: Soruda yaşanan olayı belirten cümle.
+3.	question type: Sorunun tipini belirten etiket. “effect” ya da “cause” olabiliyor.
+4.	choice1/choice2: Cevap şıkları
+5.	label:  0 ise cevap “choice1”, 1 ise cevap “choice2” anlamına geliyor.
+6.	changed: Sorunun daha önce değiştirilip değiştirilmediğini belirtiyor.
+
+Değerlendirme sütunları:
+Anlaşılabilirlik, Akıcılık ve Anlatım Bozukluğu: Aşağıdaki dört sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Metin doğal ve akıcı bir şekilde okunabiliyor mu? 
+b.	Ana dili Türkçe olan biri bu cümleleri kurar mıydı? 
+c.	Metin anlatım bozukluğu içermeyen cümlelerden mi oluşuyor?
+ç.	“Premise”, “choice1” ve “choice2” sütunlarındaki cümlelerde anlatılan olayların ne olduğu anlaşılıyor mu? 

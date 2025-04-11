@@ -1,0 +1,15 @@
+Veri kümesi sütunları:
+link: İngilizce metnin alındığı link
+question_number: Sorunun metnin soruları arasından kaçıncı olduğunu gösteren sayı
+flores_passage: Metnin kendisi
+question: Metinle ilgili sorulan soru
+mc_answerX: X. cevap şıkkı ( X: 1, 2, 3 ya da 4 olabilir)
+correct_answer_num: Doğru cevabın kaç numaralı şık sütununa denk geldiğini belirten sayı, indisler 1’den başlamaktadır (örn: bu sütundaki değer 4 ise, doğru cevap “mc_answer4” sütunundaki cevap)
+dialect: Sorunun hangi dilde olduğunu ve hangi alfabenin kullanıldığını gösteren sütun. Türkçe alt kümesi için bu sütundaki tüm değerler “tur_Latn”
+ds: tarih damgası
+
+Değerlendirme sütunları:
+Bağdaşıklık ve Tutarlılık: Aşağıdaki üç sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+Metni oluşturan sözcük ve cümleler arasındaki dil bilgisi kuralları uyumlu mu?
+Cümle ve paragrafların anlam bütünlüğü mantık düzenine göre yapılandırılmış mı?
+Terimler ve dil yapıları çeviri boyunca tutarlı bir şekilde kullanılıyor mu?

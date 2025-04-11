@@ -1,0 +1,13 @@
+Veri kümesi sütunları:
+1.	question_id: Soruya özel numara
+2.	question: Soru metni
+3.	options: On adet cevap şıkkı
+4.	answer: Doğru cevabın İngilizce alfabede karşılık geldiği harf. (örn: 1. şık → A, 4. şık → D)
+5.	answer_index: Doğru cevabın listedeki indisi (indisler 0’dan başlıyor)
+6.	category: Sorunun gerektirdiği bilginin alanı
+7.	src: Kaynak
+
+Değerlendirme sütunları:
+Terim kullanımı: Teknik ve özel terimler doğru ve yerinde kullanılıyor ise 1, kullanılmıyorsa 0 verin. Örnek: 
+- Jovian Planets ibaresi Jüpiter Gezegenleri olarak çevrilmiş fakat Jüpiter Gezegenleri diye bir gezegen sınıfı yok. Jovian Planets Dev gezegenler demek. 
+- Prime facie duty ibaresi birincil görev diye çevrilmiş fakat felsefede prime facie ilk bakışta ödevler olarak çevrilir.

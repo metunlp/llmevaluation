@@ -1,0 +1,10 @@
+Veri kümesi sütunları:
+1.	idx: Soruya özel numara
+2.	premise: Soruda yaşanan olayı belirten cümle.
+3.	question type: Sorunun tipini belirten etiket. “effect” ya da “cause” olabiliyor.
+4.	choice1/choice2: Cevap şıkları
+5.	label:  0 ise cevap “choice1”, 1 ise cevap “choice2” anlamına geliyor.
+6.	changed: Sorunun daha önce değiştirilip değiştirilmediğini belirtiyor.
+
+Değerlendirme sütunları:
+Türkiye’deki Ortak Kültürel Sağduyu Bilgisine Uygunluk: Belirtilen veri, Türkiye’nin sosyal, ekonomik, kültürel, coğrafi kuralları ile ilgili mi? Kriterler kısmındaki koşulları içeriyorsa belirlenen kurallar çerçevesinde mi içeriyor? Cevabınız her ikisine de evet ise 1, hayır ise 0 verin.

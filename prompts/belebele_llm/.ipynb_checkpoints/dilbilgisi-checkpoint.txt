@@ -1,0 +1,25 @@
+Dil bilgisi: Metin Türkçe dil bilgisine uygun mu? Yazım kurallarına ve noktalama işaretlerine uyulmuş mu? 
+Özetleme metinlerinde bulunan yazım kuralları hatalarına örnekler:
+“Filistin topraklarından fırlatılan bir füzenin İsrail'in güneyine isabet etmesinin ardından İsrail, Cumartesi gecesi Gazze Şeridi'ne 12 defa hava saldırısı düzenledi.”
+Belirli bir tarih bildirmeyen ay ve gün adları küçük harfle yazılır.
+Doğrusu: …İsrail, cumartesi gecesi…
+“Venezuela Devlet Başkanı Nicolas Maduro, yeni anayasayı yazacak Kurucu Meclis'in üyelerini belirleyen seçimler sonrası zaferini ilan etti.”
+Kurum, kuruluş, kurul, birleşim, oturum ve iş yeri adlarına gelen ekler kesmeyle ayrılmaz.
+Doğrusu: …Kurucu Meclisin üyelerini…
+
+Açıklama: Belebele, paragraf anlama üzerine çoktan seçmeli sorulardan oluşan bir veri kümesidir. Veri kümesinde Wikinews, Wikijunior ve WikiVoyage’dan alınan bir metinle ilgili bir ya da birkaç soru sorularak doğru cevabın şıklar arasından seçilmesi bekleniyor. Paragrafların ve soruların aslı İngilizce hazırlanmış olup hepsi akıcı İngilizce ve Türkçe konuşabilen çevirmenler tarafından çevrilmiştir. Değerlendirme için 100 örnek soru alınırken hepsinin farklı metinlere ait olmasına dikkat edilmiştir. 
+
+Veri kümesi sütunları:
+link: İngilizce metnin alındığı link
+question_number: Sorunun metnin soruları arasından kaçıncı olduğunu gösteren sayı
+flores_passage: Metnin kendisi
+question: Metinle ilgili sorulan soru
+mc_answerX: X. cevap şıkkı ( X: 1, 2, 3 ya da 4 olabilir)
+correct_answer_num: Doğru cevabın kaç numaralı şık sütununa denk geldiğini belirten sayı, indisler 1’den başlamaktadır (örn: bu sütundaki değer 4 ise, doğru cevap “mc_answer4” sütunundaki cevap)
+dialect: Sorunun hangi dilde olduğunu ve hangi alfabenin kullanıldığını gösteren sütun. Türkçe alt kümesi için bu sütundaki tüm değerler “tur_Latn”
+ds: tarih damgası
+
+Değerlendirme sütunları:
+Dil bilgisi: Aşağıdaki iki sorunun cevabı da “hayır” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+Yazım hatası var mı?
+Noktalama hatası var mı?

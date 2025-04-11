@@ -1,0 +1,15 @@
+Veri kümesi sütunları:
+1.	id: Soruya özel numara
+2.	context: Soru için gerekli olan bilgiyi içeren paragraf(lar)
+3.	question: “Context” sütununda verilen paragrafla ilgili sorulan soru
+4.	answer_text: “question” sütununda yazan sorunun cevabı (bu cevap paragrafın içinde doğrudan yer alıyor olmalı)
+5.	answer_start: “question” sütununda yazan sorunun cevabının “context” sütunundaki paragrafın kaçıncı karakterden itibaren başladığını gösteren sayı
+6.	title: Paragrafın bulunduğu Wikipedia sayfasının başlığı
+
+Değerlendirme sütunları:
+Anlaşılabilirlik, Akıcılık ve Anlatım Bozukluğu: Aşağıdaki beş sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Metin doğal ve akıcı bir şekilde okunabiliyor mu? 
+b.	Ana dili Türkçe olan biri bu cümleleri kurar mıydı? 
+c.	Metin anlatım bozukluğu içermeyen cümlelerden mi oluşuyor?
+ç.	Soru cümlesini okuduğunuzda neyin sorulduğunu anlayabiliyor musunuz?
+d.	Paragrafı okuduğunuzda ne anlattığını anlayabiliyor musunuz?

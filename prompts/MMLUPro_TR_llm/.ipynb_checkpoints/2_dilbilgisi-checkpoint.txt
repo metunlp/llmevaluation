@@ -1,0 +1,13 @@
+Veri kümesi sütunları:
+1.	question_id: Soruya özel numara
+2.	question: Soru metni
+3.	options: On adet cevap şıkkı
+4.	answer: Doğru cevabın İngilizce alfabede karşılık geldiği harf. (örn: 1. şık → A, 4. şık → D)
+5.	answer_index: Doğru cevabın listedeki indisi (indisler 0’dan başlıyor)
+6.	category: Sorunun gerektirdiği bilginin alanı
+7.	src: Kaynak
+
+Değerlendirme sütunları:
+Dil bilgisi:  Aşağıdaki iki sorunun cevabı da “hayır” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Yazım hatası var mı?
+b.	Noktalama hatası var mı?

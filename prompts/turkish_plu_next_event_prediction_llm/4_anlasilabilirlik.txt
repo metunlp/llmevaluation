@@ -1,0 +1,14 @@
+Veri kümesi sütunları:
+1.	Goal: Hedef
+2.	Step1: Yapılan adım
+3.	NextStepCandidate0: Step1’i takip edebilecek adım seçeneklerinin ilki
+4.	NextStepCandidate1: Step1’i takip edebilecek adım seçeneklerinin ikincisi
+5.	NextStepCandidate2: Step1’i takip edebilecek adım seçeneklerinin üçüncüsü
+6.	NextStepCandidate3: Step1’i takip edebilecek adım seçeneklerinin dördüncüsü
+7.	Label: Verilen hedef için Step1’i takip edecek doğru adım numarası
+
+Değerlendirme sütunları:
+Anlaşılabilirlik, Akıcılık ve Anlatım Bozukluğu: Aşağıdaki üç sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Metin doğal ve akıcı bir şekilde okunabiliyor mu? 
+b.	Ana dili Türkçe olan biri bu cümleleri kurar mıydı? 
+c.	Metin anlatım bozukluğu içermeyen cümlelerden mi oluşuyor?

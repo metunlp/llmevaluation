@@ -1,0 +1,8 @@
+Veri kümesi sütunları:
+1.	step: Yapılan adım
+2.	goal: “step”te bulunan adımın gözetilerek yapıldığı amaç.
+
+Değerlendirme sütunları:
+Dil bilgisi: Aşağıdaki iki sorunun cevabı da “hayır” ise kutuya 1 yazın, aksi takdirde 0 yazın. 
+a.	Yazım hatası var mı?
+b.	Noktalama hatası var mı?

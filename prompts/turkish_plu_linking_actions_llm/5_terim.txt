@@ -1,0 +1,6 @@
+Veri kümesi sütunları:
+1.	step: Yapılan adım
+2.	goal: “step”te bulunan adımın gözetilerek yapıldığı amaç.
+
+Değerlendirme sütunları:
+Terim kullanımı: Paragraf ve soruda teknik ve özel terimlerin çevirisi doğru yapılmış mı? Bu soruya cevabınız evet ise 1, hayır ise 0 verin. 

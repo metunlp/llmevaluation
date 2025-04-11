@@ -1,0 +1,7 @@
+Veri kümesi sütunları:
+1.	id: Soruya özel numara
+2.	tweet: Twitter’dan alınan metin
+3.	subtask_a: Ofansiflik etiketi. Bu hücre değeri eğer tweet metni ofansif/uygun olmayan/saldırgan dil içeriyorsa 1, içermiyorsa 0 olarak işaretlenmiştir.
+
+Değerlendirme sütunları:
+Doğruluk: “subtask_a” da verilen ofansiflik etiketi cevabı doğru mu? Cevabınız “evet” ise 1 verin, aksi takdirde 0 verin.

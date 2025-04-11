@@ -1,0 +1,12 @@
+Veri kümesi sütunları:
+link: İngilizce metnin alındığı link
+question_number: Sorunun metnin soruları arasından kaçıncı olduğunu gösteren sayı
+flores_passage: Metnin kendisi
+question: Metinle ilgili sorulan soru
+mc_answerX: X. cevap şıkkı ( X: 1, 2, 3 ya da 4 olabilir)
+correct_answer_num: Doğru cevabın kaç numaralı şık sütununa denk geldiğini belirten sayı, indisler 1’den başlamaktadır (örn: bu sütundaki değer 4 ise, doğru cevap “mc_answer4” sütunundaki cevap)
+dialect: Sorunun hangi dilde olduğunu ve hangi alfabenin kullanıldığını gösteren sütun. Türkçe alt kümesi için bu sütundaki tüm değerler “tur_Latn”
+ds: tarih damgası
+
+Değerlendirme sütunları:
+Türkiye’deki Ortak Kültürel Sağduyu Bilgisine Uygunluk: Belirtilen veri, Türkiye’nin sosyal, ekonomik, kültürel, coğrafi kuralları ile ilgili mi? Kriterler kısmındaki koşulları içeriyorsa belirlenen kurallar çerçevesinde mi içeriyor? Cevabınız her ikisine de evet ise 1, hayır ise 0 verin.

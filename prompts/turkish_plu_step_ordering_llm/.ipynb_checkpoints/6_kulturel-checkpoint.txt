@@ -1,0 +1,8 @@
+Veri kümesi sütunları:
+1.	Goal: Hedef
+2.	Ending0: Adım seçeneği 0
+3.	Ending1: Adım seçeneği 1
+4.	Label: Verilen hedef için hangi adım (ending) daha önce gerçekleşiyorsa onun numarası
+
+Değerlendirme sütunları:
+Türkiye’deki Ortak Kültürel Sağduyu Bilgisine Uygunluk: Belirtilen veri, Türkiye’nin sosyal, ekonomik, kültürel, coğrafi kuralları ile ilgili mi? Kriterler kısmındaki koşulları içeriyorsa belirlenen kurallar çerçevesinde mi içeriyor? Cevabınız her ikisine de evet ise 1, hayır ise 0 verin.

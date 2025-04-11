@@ -1,0 +1,9 @@
+Veri kümesi sütunları:
+1.	id: Soruya özel numara
+2.	text: Soru için gerekli olan haberi içeren paragraf(lar)
+3.	summary: “text” sütununda verilen paragrafın özeti
+4.	title: “text” sütununda yazan haberin başlığı
+5.	url: “text” sütununda verilen haberin linki
+
+Değerlendirme sütunları:
+Terim kullanımı: Paragraf ve soruda teknik ve özel terimler doğru kullanılmış mı? Bu soruya cevabınız evet ise 1, hayır ise 0 verin. Örnek için bu belgenin “Kriterler” bölümüne bakabilirsiniz.

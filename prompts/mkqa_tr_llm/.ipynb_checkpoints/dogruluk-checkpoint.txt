@@ -1,0 +1,1 @@
+Doğruluk: Sorunun cevabı doğru mu? Doğru olarak etiketlenen cevap ile sorulan sorunun gerçek cevabı aynı mı? Bu kriter bazı sorular için araştırma gerektirebilir. Soru doğrudan yanlış olabilir veya cevabın doğruluğu çeviri sırasında kaybolmuş olabilir. 

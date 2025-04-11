@@ -1,0 +1,10 @@
+Veri kümesi sütunları:
+1.	Step: Yapılan adım
+2.	Candidate0: Step’te yapılan işin yapılma amacını belirten seçeneklerin ilki
+3.	Candidate1: Step’te yapılan işin yapılma amacını belirten seçeneklerin ikincisi
+4.	Candidate2: Step’te yapılan işin yapılma amacını belirten seçeneklerin üçüncüsü
+5.	Candidate3: Step’te yapılan işin yapılma amacını belirten seçeneklerin dördüncüsü
+6.	Label: Candidate’lardan step’in amacını doğru olarak tanımlayanın numarası (Step’in yapılma amacı, goal)
+
+Değerlendirme sütunları:
+Türkiye’deki Ortak Kültürel Sağduyu Bilgisine Uygunluk: Belirtilen veri, Türkiye’nin sosyal, ekonomik, kültürel, coğrafi kuralları ile ilgili mi? Kriterler kısmındaki koşulları içeriyorsa belirlenen kurallar çerçevesinde mi içeriyor? Cevabınız her ikisine de evet ise 1, hayır ise 0 verin.

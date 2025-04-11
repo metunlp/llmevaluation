@@ -1,0 +1,7 @@
+Veri kümesi sütunları:
+1.	sentence1: Verilen ilk cümle
+2.	sentence2: Verilen ikinci cümle
+3.	score: Verilen iki cümlenin yakınlığına 5.0 ile 0.0 arası verilen bir skor. Tam sayı olmak zorunda değil.  
+
+Değerlendirme sütunları:
+Terim kullanımı: Cümlelerde teknik ve özel terimlerin çevirisi doğru yapılmış mı? Bu soruya cevabınız evet ise 1, hayır ise 0 verin

@@ -1,0 +1,11 @@
+Veri kümesi sütunları:
+1.	article_url: Makalenin linki
+2.	article_title: Makalenin başlığı
+3.	paragraph_title: Paragrafın başlığı
+4.	document: Makale metni
+5.	summary: Verilen makale metninin özeti.
+
+Değerlendirme sütunları:
+Dil bilgisi: Aşağıdaki iki sorunun cevabı da “hayır” ise kutuya 1 yazın, aksi takdirde 0 yazın. 
+a.	Yazım hatası var mı?
+b.	Noktalama hatası var mı?

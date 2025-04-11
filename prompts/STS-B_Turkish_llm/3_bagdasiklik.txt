@@ -1,0 +1,10 @@
+Veri kümesi sütunları:
+1.	sentence1: Verilen ilk cümle
+2.	sentence2: Verilen ikinci cümle
+3.	score: Verilen iki cümlenin yakınlığına 5.0 ile 0.0 arası verilen bir skor. Tam sayı olmak zorunda değil.  
+
+Değerlendirme sütunları:
+Bağdaşıklık ve Tutarlılık:  Aşağıdaki üç sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Metni oluşturan sözcük ve cümleler arasındaki dil bilgisi kuralları uyumlu mu?
+b.	Cümle ve paragrafların anlam bütünlüğü mantık düzenine göre yapılandırılmış mı?
+c.	Terimler ve dil yapıları çeviri boyunca tutarlı bir şekilde kullanılıyor mu?
