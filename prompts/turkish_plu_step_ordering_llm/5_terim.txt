@@ -1,0 +1,8 @@
+Veri kümesi sütunları:
+1.	Goal: Hedef
+2.	Ending0: Adım seçeneği 0
+3.	Ending1: Adım seçeneği 1
+4.	Label: Verilen hedef için hangi adım (ending) daha önce gerçekleşiyorsa onun numarası
+
+Değerlendirme sütunları:
+Terim kullanımı: Paragraf ve soruda teknik ve özel terimlerin çevirisi doğru yapılmış mı? Bu soruya cevabınız evet ise 1, hayır ise 0 verin.

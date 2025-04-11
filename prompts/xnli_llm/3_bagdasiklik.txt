@@ -1,0 +1,10 @@
+Veri kümesi sütunları: 
+1.	premise: Önerme
+2.	hypothesis: Önermeye bağlı olarak gözden geçirilecek hipotez
+3.	label: Hipotezin önerme ile alakası
+
+Değerlendirme sütunları:
+Bağdaşıklık ve Tutarlılık:  Aşağıdaki üç sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Metni oluşturan sözcük ve cümleler arasındaki dil bilgisi kuralları uyumlu mu?
+b.	Cümle ve paragrafların anlam bütünlüğü mantık düzenine göre yapılandırılmış mı?
+c.	Terimler ve dil yapıları çeviri boyunca tutarlı bir şekilde kullanılıyor mu?

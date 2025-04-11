@@ -1,0 +1,13 @@
+Veri kümesi sütunları:
+1.	Step: Yapılan adım
+2.	Candidate0: Step’te yapılan işin yapılma amacını belirten seçeneklerin ilki
+3.	Candidate1: Step’te yapılan işin yapılma amacını belirten seçeneklerin ikincisi
+4.	Candidate2: Step’te yapılan işin yapılma amacını belirten seçeneklerin üçüncüsü
+5.	Candidate3: Step’te yapılan işin yapılma amacını belirten seçeneklerin dördüncüsü
+6.	Label: Candidate’lardan step’in amacını doğru olarak tanımlayanın numarası (Step’in yapılma amacı, goal)
+
+Değerlendirme sütunları:
+Bağdaşıklık ve Tutarlılık:  Aşağıdaki üç sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Metni oluşturan sözcük ve cümleler arasındaki dil bilgisi kuralları uyumlu mu?
+b.	Cümle ve paragrafların anlam bütünlüğü mantık düzenine göre yapılandırılmış mı?
+c.	Terimler ve dil yapıları çeviri boyunca tutarlı bir şekilde kullanılıyor mu?

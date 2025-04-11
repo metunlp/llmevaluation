@@ -1,0 +1,7 @@
+Veri kümesi sütunları: 
+1.	premise: Önerme
+2.	hypothesis: Önermeye bağlı olarak gözden geçirilecek hipotez
+3.	label: Hipotezin önerme ile alakası
+
+Değerlendirme sütunları:
+Doğruluk: Önerme ve hipotez arasındaki ilişki doğru belirlenmiş ise 1, yanlış belirlenmiş ise 0 verin.

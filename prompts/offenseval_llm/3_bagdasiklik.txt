@@ -1,0 +1,10 @@
+Veri kümesi sütunları:
+1.	id: Soruya özel numara
+2.	tweet: Twitter’dan alınan metin
+3.	subtask_a: Ofansiflik etiketi. Bu hücre değeri eğer tweet metni ofansif/uygun olmayan/saldırgan dil içeriyorsa 1, içermiyorsa 0 olarak işaretlenmiştir.
+
+Değerlendirme sütunları:
+Bağdaşıklık ve Tutarlılık:  Aşağıdaki üç sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Metni oluşturan sözcük ve cümleler arasındaki dil bilgisi kuralları uyumlu mu?
+b.	Cümle ve paragrafların anlam bütünlüğü mantık düzenine göre yapılandırılmış mı?
+c.	Terimler ve dil yapıları çeviri boyunca tutarlı bir şekilde kullanılıyor mu?

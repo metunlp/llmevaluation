@@ -1,0 +1,9 @@
+Veri kümesi sütunları:
+1.	article_url: Makalenin linki
+2.	article_title: Makalenin başlığı
+3.	paragraph_title: Paragrafın başlığı
+4.	document: Makale metni
+5.	summary: Verilen makale metninin özeti.
+
+Değerlendirme sütunları:
+Terim kullanımı: Paragraf ve soruda teknik ve özel terimlerin çevirisi doğru yapılmış mı? Bu soruya cevabınız evet ise 1, hayır ise 0 verin. 

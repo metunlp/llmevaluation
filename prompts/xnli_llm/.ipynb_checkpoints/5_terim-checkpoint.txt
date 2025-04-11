@@ -1,0 +1,7 @@
+Veri kümesi sütunları: 
+1.	premise: Önerme
+2.	hypothesis: Önermeye bağlı olarak gözden geçirilecek hipotez
+3.	label: Hipotezin önerme ile alakası
+
+Değerlendirme sütunları:
+Terim kullanımı: Önerme ve hipotezde teknik ve özel terimlerin çevirisi doğru yapılmış mı? Bu soruya cevabınız evet ise 1, hayır ise 0 verin.

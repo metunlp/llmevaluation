@@ -1,0 +1,11 @@
+Veri kümesi sütunları:
+1.	Goal: Hedef
+2.	Ending0: Adım seçeneği 0
+3.	Ending1: Adım seçeneği 1
+4.	Label: Verilen hedef için hangi adım (ending) daha önce gerçekleşiyorsa onun numarası
+
+Değerlendirme sütunları:
+Bağdaşıklık ve Tutarlılık:  Aşağıdaki üç sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Metni oluşturan sözcük ve cümleler arasındaki dil bilgisi kuralları uyumlu mu?
+b.	Cümle ve paragrafların anlam bütünlüğü mantık düzenine göre yapılandırılmış mı?
+c.	Terimler ve dil yapıları çeviri boyunca tutarlı bir şekilde kullanılıyor mu?

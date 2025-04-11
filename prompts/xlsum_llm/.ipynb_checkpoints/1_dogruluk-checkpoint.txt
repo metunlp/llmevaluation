@@ -1,0 +1,12 @@
+Veri kümesi sütunları:
+1.	id: Soruya özel numara
+2.	text: Soru için gerekli olan haberi içeren paragraf(lar)
+3.	summary: “text” sütununda verilen paragrafın özeti
+4.	title: “text” sütununda yazan haberin başlığı
+5.	url: “text” sütununda verilen haberin linki
+
+Değerlendirme sütunları:
+Doğruluk: Aşağıdaki ilk soruya cevabınız “evet”, diğer iki soruya cevabınız “hayır” ise 1 verin. Verdiğiniz cevap bir soru için bile farklıysa 0 verin. (Sorular XL-Sum makalesinden alınmıştır.)
+a.	“summary” sütununda verilen özet haberin içeriğinin ne hakkında olduğunu doğru aktarıyor mu? 
+b.	Özet, haberle çelişen bir bilgi içeriyor mu? 
+c.	Özet, haberden çıkarılamayacak bir bilgi içeriyor mu? 

@@ -1,0 +1,8 @@
+Anlaşılabilirlik, Akıcılık ve Anlatım Bozukluğu: Metin doğal ve akıcı bir şekilde okunabiliyor mu? Ana dili Türkçe olan biri bu cümleleri kurar mıydı? Metinde anlatım bozukluğu var mı?
+Anlatım Bozukluğuna özetleme metinlerinden örnekler:
+“75 Nobel ödülü sahibi açık mektup yazdı 2017 yılında 75 Nobel ödülü sahibi İranlı yetkililere hitaben kaleme aldıkları bir açık mektupta Ahmadreza Celali'nin derhal serbest bırakılması çağrısı yaptılar.”
+Cümlede hem noktalama işaretleri eksikliği hem de özne-yüklem uyumsuzluğundan kaynaklanan anlatım bozukluğu var.
+Doğrusu: 75 Nobel ödülü sahibi açık mektup yazdı: 2017 yılında 75 Nobel ödülü sahibi, İranlı yetkililere hitaben kaleme aldıkları bir açık mektupta Ahmadreza Celali'nin derhal serbest bırakılması çağrısı yaptı.
+“Polisin silahsız siyah bir genci vurması nedeniyle 11 gündür protesto ve şiddet olaylarının yaşandığı ABD'nin St Louis bölgesinde, polisin ikinci siyah erkeği öldürmesiyle gerginliğin daha da artmasından korkuluyor.”
+Cümlede tamlama hatasından kaynaklanan anlatım bozukluğu var.
+Doğrusu: Polisin silahsız siyahi bir genci vurması nedeniyle 11 gündür protesto ve şiddet olaylarının yaşandığı ABD'nin St Louis bölgesinde, polisin ikinci kez siyahi bir erkeği öldürmesiyle gerginliğin daha da artmasından korkuluyor.

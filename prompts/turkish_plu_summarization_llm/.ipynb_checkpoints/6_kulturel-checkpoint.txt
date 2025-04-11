@@ -1,0 +1,9 @@
+Veri kümesi sütunları:
+1.	article_url: Makalenin linki
+2.	article_title: Makalenin başlığı
+3.	paragraph_title: Paragrafın başlığı
+4.	document: Makale metni
+5.	summary: Verilen makale metninin özeti.
+
+Değerlendirme sütunları:
+Türkiye’deki Ortak Kültürel Sağduyu Bilgisine Uygunluk: Belirtilen veri, Türkiye’nin sosyal, ekonomik, kültürel, coğrafi kuralları ile ilgili mi? Kriterler kısmındaki koşulları içeriyorsa belirlenen kurallar çerçevesinde mi içeriyor? Cevabınız her ikisine de evet ise 1, hayır ise 0 verin.

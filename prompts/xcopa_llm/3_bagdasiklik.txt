@@ -1,0 +1,13 @@
+Veri kümesi sütunları:
+1.	idx: Soruya özel numara
+2.	premise: Soruda yaşanan olayı belirten cümle.
+3.	question type: Sorunun tipini belirten etiket. “effect” ya da “cause” olabiliyor.
+4.	choice1/choice2: Cevap şıkları
+5.	label:  0 ise cevap “choice1”, 1 ise cevap “choice2” anlamına geliyor.
+6.	changed: Sorunun daha önce değiştirilip değiştirilmediğini belirtiyor.
+
+Değerlendirme sütunları:
+Bağdaşıklık ve Tutarlılık:  Aşağıdaki üç sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Metni oluşturan sözcük ve cümleler arasındaki dil bilgisi kuralları uyumlu mu?
+b.	Cümle ve paragrafların anlam bütünlüğü mantık düzenine göre yapılandırılmış mı?
+c.	Terimler ve dil yapıları çeviri boyunca tutarlı bir şekilde kullanılıyor mu?

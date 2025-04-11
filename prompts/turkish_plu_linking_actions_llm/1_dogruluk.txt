@@ -1,0 +1,6 @@
+Veri kümesi sütunları:
+1.	step: Yapılan adım
+2.	goal: “step”te bulunan adımın gözetilerek yapıldığı amaç.
+
+Değerlendirme sütunları:
+Doğruluk: Adım, cevap olarak verilen hedefe ulaşmayı sağlayacak aşamalardan biri mi? Cevabınız “evet” ise 1 verin, aksi takdirde 0 verin.

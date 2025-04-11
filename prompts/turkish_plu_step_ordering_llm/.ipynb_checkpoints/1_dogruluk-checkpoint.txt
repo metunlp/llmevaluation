@@ -1,0 +1,8 @@
+Veri kümesi sütunları:
+1.	Goal: Hedef
+2.	Ending0: Adım seçeneği 0
+3.	Ending1: Adım seçeneği 1
+4.	Label: Verilen hedef için hangi adım (ending) daha önce gerçekleşiyorsa onun numarası
+
+Değerlendirme sütunları:
+Doğruluk: Verilen hedef için label’da verilen adım diğer adımdan önce mi gerçekleşiyor? Cevabınız “evet” ise 1 verin, aksi takdirde 0 verin.

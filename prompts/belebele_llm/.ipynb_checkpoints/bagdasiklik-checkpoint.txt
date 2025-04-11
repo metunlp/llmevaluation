@@ -1,0 +1,35 @@
+Bağdaşıklık ve Tutarlılık (Cohesion and Coherence): Metni oluşturan sözcük ve cümleler arasındaki dil bilgisi kuralları uyumlu mu? Cümle ve paragrafların anlam bütünlüğü mantık düzenine göre yapılandırılmış mı? Terimler ve dil yapıları çeviri boyunca tutarlı bir şekilde kullanılıyor mu?
+
+Bağdaşıklık (Cohesion): “Bir metni oluşturan çeşitli bölümlerin bir dilsel bütünlük sağlayacak biçimde birbirlerine bağlanması” (Onursal, 2003:8) Bağdaşıklık “bir yazının metin olmasını sağlayan, metin içi ilişkileri kuran, dille ilgili özelliklerin tümünü belirten bir kavram” (Günay, 2007: 71) olarak tanımlanabilir.
+		
+Bağdaşıklık (doğru örnek):
+"Ben dün okula gittim. Okulda arkadaşlarımla görüştüm. Sonra eve geldim."
+Bu örnekte, cümleler arasında "ben" zamiri, "dün" ve "sonra" gibi bağlaçlar ve zaman zarfları kullanarak bir dilbilgisel bağlantı kurulmuştur. 
+Bağdaşıklık (yanlış örnek):
+"Ben dün okula gittim. Sonra kitap okumayı seviyorum. Ardından arkadaşlarımla görüştüm."
+Bu örnekte, cümleler arasında dilbilgisel bağlantı kurulmaya çalışılmış, ancak "kitap okumayı seviyorum" cümlesi, metnin geri kalanıyla dilbilgisel olarak bağlantılı değildir. Bu cümle, bir genel ifade olarak dururken, diğer cümleler bir hikaye anlatmaktadır.
+Tutarlılık (Coherence): Tutarlılık, “metindeki mantıksal bağlantı” (Subaşı Uzun, 1995: 110); bir metni oluştururken sözcükler arasındaki anlam ve mantık bağıntısı” (Aksan, 1998: 35) olarak tanımlanabilir.
+Tutarlılık (doğru örnek):
+"Ben dün okula gittim. Okulda arkadaşlarımla görüştüm. Sonra eve geldim ve yemek yedim."
+Bu örnekte, cümleler arasında mantıksal bir bağlantı kurulmuştur. Okula gitmek, arkadaşlarla görüşmek ve eve gelmek, ardından yemek yemek, birbiriyle ilgili ve mantıklı bir sıralamadır. 
+Tutarlılık (yanlış örnek):
+"Ben dün okula gittim. Okulda arkadaşlarımla görüştüm. Sonra aniden uzaya gittim ve bir uzaylıyla tanıştım."
+Bu örnekte, cümleler arasında mantıksal bir bağlantı kurulmaya çalışılmış, ancak "aniden uzaya gittim ve bir uzaylıyla tanıştım" cümlesi, metnin geri kalanıyla mantıksal olarak bağlantılı değildir. Okulda arkadaşlarla görüştükten sonra uzaya gitmek ve bir uzaylıyla tanışmak, mantıklı bir sıralama değildir.
+
+Açıklama: Belebele, paragraf anlama üzerine çoktan seçmeli sorulardan oluşan bir veri kümesidir. Veri kümesinde Wikinews, Wikijunior ve WikiVoyage’dan alınan bir metinle ilgili bir ya da birkaç soru sorularak doğru cevabın şıklar arasından seçilmesi bekleniyor. Paragrafların ve soruların aslı İngilizce hazırlanmış olup hepsi akıcı İngilizce ve Türkçe konuşabilen çevirmenler tarafından çevrilmiştir. Değerlendirme için 100 örnek soru alınırken hepsinin farklı metinlere ait olmasına dikkat edilmiştir. 
+
+Veri kümesi sütunları:
+link: İngilizce metnin alındığı link
+question_number: Sorunun metnin soruları arasından kaçıncı olduğunu gösteren sayı
+flores_passage: Metnin kendisi
+question: Metinle ilgili sorulan soru
+mc_answerX: X. cevap şıkkı ( X: 1, 2, 3 ya da 4 olabilir)
+correct_answer_num: Doğru cevabın kaç numaralı şık sütununa denk geldiğini belirten sayı, indisler 1’den başlamaktadır (örn: bu sütundaki değer 4 ise, doğru cevap “mc_answer4” sütunundaki cevap)
+dialect: Sorunun hangi dilde olduğunu ve hangi alfabenin kullanıldığını gösteren sütun. Türkçe alt kümesi için bu sütundaki tüm değerler “tur_Latn”
+ds: tarih damgası
+
+Değerlendirme sütunları:
+Bağdaşıklık ve Tutarlılık: Aşağıdaki üç sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+Metni oluşturan sözcük ve cümleler arasındaki dil bilgisi kuralları uyumlu mu?
+Cümle ve paragrafların anlam bütünlüğü mantık düzenine göre yapılandırılmış mı?
+Terimler ve dil yapıları çeviri boyunca tutarlı bir şekilde kullanılıyor mu?

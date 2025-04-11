@@ -1,0 +1,7 @@
+Veri kümesi sütunları:
+1.	sentence1: Verilen ilk cümle
+2.	sentence2: Verilen ikinci cümle
+3.	score: Verilen iki cümlenin yakınlığına 5.0 ile 0.0 arası verilen bir skor. Tam sayı olmak zorunda değil.  
+
+Değerlendirme sütunları:
+Doğruluk: İki cümlenin birbirine yakınlığı anlamlı bir puan almış mı? Puan mantıklı ise 1, değilse 0 verin.

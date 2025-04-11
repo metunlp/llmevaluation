@@ -1,0 +1,13 @@
+Veri kümesi sütunları:
+1.	id: Soruya özel numara
+2.	context: Soru için gerekli olan bilgiyi içeren paragraf(lar)
+3.	question: “Context” sütununda verilen paragrafla ilgili sorulan soru
+4.	answer_text: “question” sütununda yazan sorunun cevabı (bu cevap paragrafın içinde doğrudan yer alıyor olmalı)
+5.	answer_start: “question” sütununda yazan sorunun cevabının “context” sütunundaki paragrafın kaçıncı karakterden itibaren başladığını gösteren sayı
+6.	title: Paragrafın bulunduğu Wikipedia sayfasının başlığı
+
+Değerlendirme sütunları:
+Doğruluk: Aşağıdaki üç sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Sorunun cevabı paragrafta yer alıyor mu? 
+b.	“answer_text” sütunundaki cevap doğru ve eksiksiz mi? 
+c.	Cevap paragraftan tek bir doğru olarak çıkarılabiliyor mu? 

@@ -1,0 +1,12 @@
+Veri kümesi sütunları:
+1.	article_url: Makalenin linki
+2.	article_title: Makalenin başlığı
+3.	paragraph_title: Paragrafın başlığı
+4.	document: Makale metni
+5.	summary: Verilen makale metninin özeti.
+
+Değerlendirme sütunları:
+Bağdaşıklık ve Tutarlılık:  Aşağıdaki üç sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Metni oluşturan sözcük ve cümleler arasındaki dil bilgisi kuralları uyumlu mu?
+b.	Cümle ve paragrafların anlam bütünlüğü mantık düzenine göre yapılandırılmış mı?
+c.	Terimler ve dil yapıları çeviri boyunca tutarlı bir şekilde kullanılıyor mu?

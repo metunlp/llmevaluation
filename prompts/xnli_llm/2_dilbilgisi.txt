@@ -1,0 +1,9 @@
+Veri kümesi sütunları: 
+1.	premise: Önerme
+2.	hypothesis: Önermeye bağlı olarak gözden geçirilecek hipotez
+3.	label: Hipotezin önerme ile alakası
+
+Değerlendirme sütunları:
+Dil bilgisi: Aşağıdaki iki sorunun cevabı da “hayır” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Yazım hatası var mı?
+b.	Noktalama hatası var mı?

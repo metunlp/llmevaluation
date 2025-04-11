@@ -1,0 +1,14 @@
+Veri kümesi sütunları:
+1.	idx: Soruya özel numara
+2.	premise: Soruda yaşanan olayı belirten cümle.
+3.	question type: Sorunun tipini belirten etiket. “effect” ya da “cause” olabiliyor.
+4.	choice1/choice2: Cevap şıkları
+5.	label:  0 ise cevap “choice1”, 1 ise cevap “choice2” anlamına geliyor.
+6.	changed: Sorunun daha önce değiştirilip değiştirilmediğini belirtiyor.
+
+Değerlendirme sütunları:
+Doğruluk: Aşağıdaki iki soruya da cevabınız “evet” ise 1 verin, aksi takdirde 0 verin.
+a.	Verilen etikete göre (cause/effect) cevap olarak gösterilen şık uyumlu mu? Yani aşağıdaki şekilde cümleleri birleştirdiğinizde mantıklı bir anlam akışı oluşuyor mu?
+●	Effect:  (premise) Bu yüzden (cevap)
+●	Cause: (premise) Çünkü (doğru cevap)
+b.	İki şık arasından doğru bir cevap seçilebiliyor mu? 

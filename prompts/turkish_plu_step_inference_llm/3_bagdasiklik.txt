@@ -1,0 +1,13 @@
+Veri kümesi sütunları:
+1.	Goal: Hedeflenen şey 
+2.	Candidate0: Hedeflenen şeyi yapabilmek için kullanılabilecek adım seçeneği 0 (Step Choice 0)
+3.	Candidate1: Hedeflenen şeyi yapabilmek için kullanılabilecek adım seçeneği 1 (Step Choice 1)
+4.	Candidate2: Hedeflenen şeyi yapabilmek için kullanılabilecek adım seçeneği 2 (Step Choice 2)
+5.	Candidate3: Hedeflenen şeyi yapabilmek için kullanılabilecek adım seçeneği 3 (Step Choice 3)
+6.	Label: “Candidate”lardan “Goal”ü yapabilmek için kullanılacak doğru adım numarası
+
+Değerlendirme sütunları:
+Bağdaşıklık ve Tutarlılık:  Aşağıdaki üç sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Metni oluşturan sözcük ve cümleler arasındaki dil bilgisi kuralları uyumlu mu?
+b.	Cümle ve paragrafların anlam bütünlüğü mantık düzenine göre yapılandırılmış mı?
+c.	Terimler ve dil yapıları çeviri boyunca tutarlı bir şekilde kullanılıyor mu?

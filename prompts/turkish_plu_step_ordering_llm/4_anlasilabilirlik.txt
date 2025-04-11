@@ -1,0 +1,11 @@
+Veri kümesi sütunları:
+1.	Goal: Hedef
+2.	Ending0: Adım seçeneği 0
+3.	Ending1: Adım seçeneği 1
+4.	Label: Verilen hedef için hangi adım (ending) daha önce gerçekleşiyorsa onun numarası
+
+Değerlendirme sütunları:
+Anlaşılabilirlik, Akıcılık ve Anlatım Bozukluğu: Aşağıdaki üç sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Metin doğal ve akıcı bir şekilde okunabiliyor mu? 
+b.	Ana dili Türkçe olan biri bu cümleleri kurar mıydı? 
+c.	Metin anlatım bozukluğu içermeyen cümlelerden mi oluşuyor?

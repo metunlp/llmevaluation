@@ -1,0 +1,19 @@
+Veri kümesi sütunları:
+1.	tokens: Kelime ve noktalama işareti olarak ayrılmış ibareleri içerir.
+2.	ner_tags: “tokens” listesindeki sıralamaya karşılık gelecek şekilde aşağıdaki NER Etiketlerine uygun verilen sayılardan oluşan liste. NER Etiketlemeleri:
+0: Aşağıdakilerden hiçbiri değil
+1: İnsan isminin ilk kelimesi
+2: İnsan isminin devamı
+3: Kuruluş/organizasyon isminin ilk kelimesi
+4: Kuruluş/organizasyon isminin devamı
+5: Mekan isminin ilk kelimesi
+6: Mekan isminin devamı
+3.	langs:  “tokens” listesindeki sıralamaya karşılık gelecek şekilde listedeki kelimelerin dili. Yalnızca Türkçe veri kümesi ele alındığı için bu listelerdeki tüm elemanlar ‘tr’den ibaret.
+4.	spans: “ner_tags”de verilen sayılara göre “tokens” listesinde verilen varlığın tam adı ve türü.
+
+Değerlendirme sütunları:
+Doğruluk: Aşağıdaki dört soruya da cevabınız “evet” ise 1 verin, aksi takdirde 0 verin.
+a.	Cümlede bulunan her etiketlenebilir varlık belirtilmiş mi?
+b.	Etiketlenebilir varlıklar isimlerinde eksik ya da fazla olmadan “spans”da belirtilmiş mi? 
+c.	Belirtilen varlıkların etiketlemesi (PER, ORG, LOC) doğru mu?
+ç.	PER, ORG ya da LOC ile etiketlenemeyecek varlıklar/kelimeler “ner_tags”de 0 (sıfır) ile gösterilmiş mi (yani etiketleme dışarısında tutulmuş mu)?

@@ -1,0 +1,10 @@
+Veri kümesi sütunları: 
+1.	premise: Önerme
+2.	hypothesis: Önermeye bağlı olarak gözden geçirilecek hipotez
+3.	label: Hipotezin önerme ile alakası
+
+Değerlendirme sütunları:
+Anlaşılabilirlik, Akıcılık ve Anlatım Bozukluğu: Aşağıdaki üç sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+a.	Metin doğal ve akıcı bir şekilde okunabiliyor mu? 
+b.	Ana dili Türkçe olan biri bu cümleleri kurar mıydı? 
+c.	Metin anlatım bozukluğu içermeyen cümlelerden mi oluşuyor?

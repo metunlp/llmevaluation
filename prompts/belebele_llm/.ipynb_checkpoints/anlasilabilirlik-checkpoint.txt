@@ -1,0 +1,30 @@
+Anlaşılabilirlik, Akıcılık ve Anlatım Bozukluğu: Metin doğal ve akıcı bir şekilde okunabiliyor mu? Ana dili Türkçe olan biri bu cümleleri kurar mıydı? Metinde anlatım bozukluğu var mı?
+Anlatım Bozukluğuna özetleme metinlerinden örnekler:
+“75 Nobel ödülü sahibi açık mektup yazdı 2017 yılında 75 Nobel ödülü sahibi İranlı yetkililere hitaben kaleme aldıkları bir açık mektupta Ahmadreza Celali'nin derhal serbest bırakılması çağrısı yaptılar.”
+Cümlede hem noktalama işaretleri eksikliği hem de özne-yüklem uyumsuzluğundan kaynaklanan anlatım bozukluğu var.
+Doğrusu: 75 Nobel ödülü sahibi açık mektup yazdı: 2017 yılında 75 Nobel ödülü sahibi, İranlı yetkililere hitaben kaleme aldıkları bir açık mektupta Ahmadreza Celali'nin derhal serbest bırakılması çağrısı yaptı.
+“Polisin silahsız siyah bir genci vurması nedeniyle 11 gündür protesto ve şiddet olaylarının yaşandığı ABD'nin St Louis bölgesinde, polisin ikinci siyah erkeği öldürmesiyle gerginliğin daha da artmasından korkuluyor.”
+Cümlede tamlama hatasından kaynaklanan anlatım bozukluğu var.
+Doğrusu: Polisin silahsız siyahi bir genci vurması nedeniyle 11 gündür protesto ve şiddet olaylarının yaşandığı ABD'nin St Louis bölgesinde, polisin ikinci kez siyahi bir erkeği öldürmesiyle gerginliğin daha da artmasından korkuluyor.
+
+
+Açıklama: Belebele, paragraf anlama üzerine çoktan seçmeli sorulardan oluşan bir veri kümesidir. Veri kümesinde Wikinews, Wikijunior ve WikiVoyage’dan alınan bir metinle ilgili bir ya da birkaç soru sorularak doğru cevabın şıklar arasından seçilmesi bekleniyor. Paragrafların ve soruların aslı İngilizce hazırlanmış olup hepsi akıcı İngilizce ve Türkçe konuşabilen çevirmenler tarafından çevrilmiştir. Değerlendirme için 100 örnek soru alınırken hepsinin farklı metinlere ait olmasına dikkat edilmiştir. 
+
+Veri kümesi sütunları:
+link: İngilizce metnin alındığı link
+question_number: Sorunun metnin soruları arasından kaçıncı olduğunu gösteren sayı
+flores_passage: Metnin kendisi
+question: Metinle ilgili sorulan soru
+mc_answerX: X. cevap şıkkı ( X: 1, 2, 3 ya da 4 olabilir)
+correct_answer_num: Doğru cevabın kaç numaralı şık sütununa denk geldiğini belirten sayı, indisler 1’den başlamaktadır (örn: bu sütundaki değer 4 ise, doğru cevap “mc_answer4” sütunundaki cevap)
+dialect: Sorunun hangi dilde olduğunu ve hangi alfabenin kullanıldığını gösteren sütun. Türkçe alt kümesi için bu sütundaki tüm değerler “tur_Latn”
+ds: tarih damgası
+
+Değerlendirme sütunları:
+Anlaşılabilirlik, Akıcılık ve Anlatım Bozukluğu: Aşağıdaki beş sorunun cevabı da “evet” ise kutuya 1 yazın, aksi takdirde 0 yazın.
+Metin doğal ve akıcı bir şekilde okunabiliyor mu? 
+Ana dili Türkçe olan biri bu cümleleri kurar mıydı? 
+Metin anlatım bozukluğu içermeyen cümlelerden mi oluşuyor?
+Soru cümlesini okuduğunuzda neyin sorulduğunu anlayabiliyor musunuz?
+Paragrafı okuduğunuzda ne anlattığını anlayabiliyor musunuz?
+
